@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0404C29-742F-4C9E-93E7-820A723CF96B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D10BBC9F-0AB1-4C6F-BA2B-ED212D026D93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/model/TipBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "caculator()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D10BBC9F-0AB1-4C6F-BA2B-ED212D026D93 - daffc0805a185897"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.TipBrain.caculator() -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pc/Desktop/iOS-Learn/Udemy/The%20Complete%20iOS%20App_Development_Bootcamp_byappbrewery/Tipsy-iOS13/Tipsy/model/TipBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "D10BBC9F-0AB1-4C6F-BA2B-ED212D026D93 - daffc0805a185897"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.TipBrain.caculator() -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pc/Desktop/iOS-Learn/Udemy/The%20Complete%20iOS%20App_Development_Bootcamp_byappbrewery/Tipsy-iOS13/Tipsy/model/TipBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44CEC1F4-195C-451B-991F-FBF3175E4065"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/model/TipBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getSlip()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
